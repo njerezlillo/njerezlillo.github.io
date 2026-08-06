@@ -1,0 +1,49 @@
+## Current {.unlisted .unnumbered}
+
+**\[Lecturer\]** Universidad Técnica Federico Santa María (March 2026 — present)
+
+- Courses (Undergraduate):
+  - (MAT70725) Probability and Statistics (2026-2),
+  - [(MAT266) Regression Analysis (2026-1).](https://github.com/njerezlillo/MAT266)
+
+## History {.unlisted .unnumbered}
+
+**\[Lecturer\]** Universidad Adolfo Ibáñez (August 2025 — December 2025)
+
+- Courses (Undergraduate):
+  - Foundations of Data Science (2025-2).
+
+**\[Lecturer\]** Pontificia Universidad Católica de Chile (March 2023 — December 2025)
+
+- Courses (Undergraduate):
+  - Probability and Statistics (2025-2),
+  - Introduction to Data Management and Exploration (2025-1),
+  - Data Analysis (2023-1).
+
+**\[Teaching Assistant\]** Pontificia Universidad Católica de Chile (August 2022 — June 2024)
+
+- Courses (Graduate):
+  - Bayesian Statistics (2024-1),
+  - Advanced Statistical Methods III (2023-1),
+  - Survival Analysis (2025-2, 2023-2, 2022-2).
+
+<!-- -->
+
+- Courses (Undergraduate):
+  - Stochastic Simulation (2024-1),
+  - Statistical Inference (2023-1),
+  - Survival Analysis (2023-2, 2022-2).
+
+**\[Lecturer\]** Universidad de Concepción (August 2020 — December 2020)
+
+- Courses (Undergraduate):
+  - Biostatistics (2020-2),
+  - Inference and Sampling (2020-2).
+
+**\[Teaching Assistant\]** Universidad de Concepción (March 2018 — July 2020)
+
+- Courses (Undergraduate):
+  - Statistics (2020-1),
+  - Statistics II (2019-2),
+  - Inference and Sampling (2018-2),
+  - Probability I (2018-1).

@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&display=swap');
+
+/* Paleta simple, ajusta a gusto */
+:root {
+  --uni-blue: #1e5aa0; /* similar al 30/90/160 que usas en tus Beamer */
+}
+
+body, .navbar, h1, h2, h3, h4, h5, h6,
+.navbar-title, .navbar-nav .nav-link, .quarto-title-banner {
+  font-family: "Quicksand", sans-serif !important;
+}
+
+h1, h2, h3 {
+  color: var(--uni-blue);
+}
+
+a {
+  color: var(--uni-blue);
+}
+
+.navbar {
+  background-color: var(--uni-blue) !important;
+}
+
+.navbar-title,
+.navbar-nav .nav-link,
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link:focus {
+  color: #ffffff !important;
+}
+
+.navbar-nav .nav-link.active {
+  color: #ffffff !important;
+  font-weight: 600;
+}
+
+.navbar .navbar-brand-container .navbar-brand {
+  display: none !important;
+}
+
+.navbar-toggler-icon {
+  filter: invert(1);
+}
+
+/* Ícono de búsqueda (lupa) en blanco */
+#quarto-search .aa-SearchIcon,
+#quarto-search .aa-SubmitIcon,
+#quarto-search svg,
+.navbar .quarto-search-icon {
+  filter: invert(1) brightness(2);
+}
+
+/* Texto del botón de búsqueda también en blanco */
+#quarto-search .aa-DetachedSearchButtonPlaceholder {
+  color: #ffffff !important;
+}
+
+.hero-center {
+  max-width: 640px;
+  margin: 3rem auto;
+  text-align: center;
+}
+
+.hero-center h1 {
+  font-size: 1.9rem;
+  margin-bottom: 0.2rem;
+}
+
+.hero-center h3 {
+  font-weight: 400;
+  color: #555;
+  margin-bottom: 1.5rem;
+}
+
+.hero-links {
+  border-top: 1px solid #d9d9d9;
+  border-bottom: 1px solid #d9d9d9;
+  padding: 0.9rem 0;
+  margin: 1.5rem 0 2rem;
+}
+
+.hero-links p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  margin: 0;
+}
+
+.hero-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 0.9rem;
+  text-decoration: none;
+}
+
+.research-pills {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin-top: 1.5rem;
+}
+
+.pill {
+  background-color: #e6f1fb;
+  color: var(--uni-blue);
+  border: 1px solid #b9d0e8;
+  padding: 0.4rem 1rem;
+  border-radius: 20px;
+  font-size: 0.85rem;
+}

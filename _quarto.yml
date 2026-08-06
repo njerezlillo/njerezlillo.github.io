@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: ""
+  description: "Personal Website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: teaching.qmd
+        text: Teaching
+      - href: research.qmd
+        text: Research
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: envelope
+        href: mailto:nixon.jerez@usm.cl
+      - icon: github
+        href: https://github.com/njerezlillo
+
+  page-footer:
+    left: "Last updated: July 8, 2026"
+    right: "Made with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme: jolla
+    css: styles.css
+    toc: true
+    mainfont: "Nunito"

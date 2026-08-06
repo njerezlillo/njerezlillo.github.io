@@ -1,0 +1,19 @@
+:::: hero-center
+# Nixon Jerez Lillo {.unlisted .unnumbered}
+
+#### Assistant Professor · Departamento de Matemática · UTFSM {.unlisted .unnumbered}
+
+::: hero-links
+```{=html}
+<p>
+<a href="https://scholar.google.com/citations?user=-mPQK18AAAAJ&hl=en" class="hero-link"><i class="bi bi-mortarboard-fill"></i> Scholar</a>
+<a href="https://orcid.org/0000-0002-8750-9699" class="hero-link"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjQTZDRTM5IiBkPSJNMjk0Ljc1IDE4OC4xOWgtNDUuOTJWMzQyaDQ3LjQ3YzY3LjYyIDAgODMuMTItNTEuMzQgODMuMTItNzYuOTEgMC00MS42NC0yNi41NC03Ni45LTg0LjY3LTc2Ljl6TTI1NiA4QzExOSA4IDggMTE5IDggMjU2czExMSAyNDggMjQ4IDI0OCAyNDgtMTExIDI0OC0yNDhTMzkzIDggMjU2IDh6bS04MC43OSAzNjAuNzZoLTI5Ljg0di0yMDcuNWgyOS44NHptLTE0LjkyLTIzMS4xNGExOS41NyAxOS41NyAwIDEgMSAxOS41Ny0xOS41NyAxOS42NCAxOS42NCAwIDAgMS0xOS41NyAxOS41N3pNMzAwIDM2OWgtODFWMTYxLjI2aDgwLjZjNzYuNzMgMCAxMTAuNDQgNTQuODMgMTEwLjQ0IDEwMy44NUM0MTAgMzE4LjM5IDM2OC4zOCAzNjkgMzAwIDM2OXoiLz48L3N2Zz4K" alt="ORCID" style="width:1em;height:1em;margin-right:4px;" />ORCID</a>
+<a href="https://github.com/njerezlillo" class="hero-link"><i class="bi bi-github"></i> GitHub</a>
+</p>
+```
+:::
+
+I am an Assistant Professor in the Departamento de Matemática at Universidad Técnica Federico Santa María (UTFSM) since March 2026. My research focused on survival analysis and piecewise models with change point detection.
+
+I am always open to new collaborations! Feel free to [write me an email.](mailto:nixon.jerez@usm.cl)
+::::

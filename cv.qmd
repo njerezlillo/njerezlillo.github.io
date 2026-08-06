@@ -1,0 +1,34 @@
+## Current Position
+
+Assistant Professor, Departamento de Matemática, Universidad Técnica Federico Santa María.
+
+## Education
+
+- Ph.D. in Statistics — Pontificia Universidad Católica de Chile (2021 — 2025)
+- Statistical Engineering — Universidad de Concepción (2016 — 2021)
+
+## Teaching Experience
+
+- Full-Time Lecturer — Universidad Técnica Federico Santa María (March 2026 — present)
+- Part-Time Lecturer — Universidad Adolfo Ibáñez (August — December 2025)
+- Part-Time Lecturer — Pontificia Universidad Católica de Chile (March 2023 — December 2025)
+- Teaching Assistant — Pontificia Universidad Católica de Chile (August 2022 — June 2024)
+- Part-Time Lecturer — Universidad de Concepción (August — December 2020)
+- Teaching Assistant — Universidad de Concepción (March 2018 — July 2020)
+
+*(Full course details in the [Teaching](teaching.qmd) section)*
+
+## Publications
+
+8 papers published in indexed journals.
+
+*(Full list in the [Research](research.qmd) section)*
+
+## Presentations
+
+<!-- - 70ª Reunião Anual da RBras — Campinas, Brazil (November 2026) -->
+<!-- - XLVIII Jornadas Nacionales de Estadística 2026 — Valparaíso, Chile (October 2026) -->
+- IX Meeting of the UFBA Graduate Program in Mathematics — Salvador, Brazil (November 2024)
+- XV Congreso Latinoamericano de Sociedades de Estadística — Santiago de Cali, Colombia (October 2023)
+- XLVI Jornadas Nacionales de Estadística — Puerto Varas, Chile (October 2019)
+- Jornadas de Estadística de la Universidad del Biobío — Concepción, Chile (January 2019)
