@@ -16,7 +16,7 @@
 **\[Lecturer\]** Pontificia Universidad Católica de Chile (March 2023 — December 2025)
 
 - Courses (Undergraduate):
-  - Probability and Statistics (2025-2),
+  - [Probability and Statistics (2025-2),](https://github.com/njerezlillo/EYP1113-UC)
   - Introduction to Data Management and Exploration (2025-1),
   - Data Analysis (2023-1).
 
