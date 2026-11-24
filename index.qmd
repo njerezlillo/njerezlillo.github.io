@@ -15,5 +15,5 @@
 
 I am an Assistant Professor in the Departamento de Matemática at Universidad Técnica Federico Santa María (UTFSM) since March 2026. My research focused on survival analysis and piecewise models with change point detection.
 
-I am always open to new collaborations! Feel free to [write me an email.](mailto:nixon.jerez@usm.cl)
+If you have an idea for a research collaboration, [feel free to write me.](mailto:nixon.jerez@usm.cl)
 ::::

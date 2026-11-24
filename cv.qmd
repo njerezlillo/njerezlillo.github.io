@@ -20,14 +20,14 @@ Assistant Professor, Departamento de Matemática, Universidad Técnica Federico 
 
 ## Publications
 
-8 papers published in indexed journals.
+10 papers published in indexed journals.
 
 *(Full list in the [Research](research.qmd) section)*
 
 ## Presentations
 
-<!-- - 70ª Reunião Anual da RBras — Campinas, Brazil (November 2026) -->
-<!-- - XLVIII Jornadas Nacionales de Estadística 2026 — Valparaíso, Chile (October 2026) -->
+- 70ª Reunião Anual da RBras — Campinas, Brazil (November 2026)
+- XLVIII Jornadas Nacionales de Estadística 2026 — Valparaíso, Chile (October 2026)
 - IX Meeting of the UFBA Graduate Program in Mathematics — Salvador, Brazil (November 2024)
 - XV Congreso Latinoamericano de Sociedades de Estadística — Santiago de Cali, Colombia (October 2023)
 - XLVI Jornadas Nacionales de Estadística — Puerto Varas, Chile (October 2019)
