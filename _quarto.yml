@@ -22,7 +22,7 @@ website:
         href: https://github.com/njerezlillo
 
   page-footer:
-    left: "Last updated: July 8, 2026"
+    left: "Last updated: November 24, 2026"
     right: "Made with [Quarto](https://quarto.org)"
 
 format:
